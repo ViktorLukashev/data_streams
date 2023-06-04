@@ -1,6 +1,6 @@
 package org.example;
 
-class MyRunnable implements Runnable {
+class MyRunnable implements Runnable { //Создание потока через интерфейс Runnable
 
     @Override
     public void run() {
